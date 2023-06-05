@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17472" started-at="2023-06-05T11:53:08 EDT" finished-at="2023-06-05T11:53:26 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17472" started-at="2023-06-05T11:53:08 EDT" finished-at="2023-06-05T11:53:26 EDT">
+      <class name="Testcases.CardTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Testcases.CardTest@9202ff3]" name="beforeSuite" is-config="true" duration-ms="225" started-at="2023-06-05T11:53:08 EDT" finished-at="2023-06-05T11:53:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testcases.CardTest@9202ff3]" name="setup" is-config="true" duration-ms="4933" started-at="2023-06-05T11:53:08 EDT" finished-at="2023-06-05T11:53:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnpowerPathway_006()[pri:0, instance:Testcases.CardTest@9202ff3]" name="clickOnpowerPathway_006" duration-ms="2258" started-at="2023-06-05T11:53:13 EDT" finished-at="2023-06-05T11:53:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnpowerPathway_006 -->
+        <test-method status="PASS" signature="getAllLinks_007()[pri:0, instance:Testcases.CardTest@9202ff3]" name="getAllLinks_007" duration-ms="9928" started-at="2023-06-05T11:53:15 EDT" finished-at="2023-06-05T11:53:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllLinks_007 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Testcases.CardTest@9202ff3]" name="tearDown" is-config="true" duration-ms="304" started-at="2023-06-05T11:53:25 EDT" finished-at="2023-06-05T11:53:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Testcases.CardTest@9202ff3]" name="afterSuite" is-config="true" duration-ms="324" started-at="2023-06-05T11:53:26 EDT" finished-at="2023-06-05T11:53:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Testcases.CardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
